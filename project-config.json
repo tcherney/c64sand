@@ -1,0 +1,13 @@
+{
+    "name": "c64sand",
+    "description": "Project c64sand",
+    "toolkit": "cc65",
+    "sources": [
+        "src/main.c"
+    ],
+    "build": "debug",
+    "definitions": [],
+    "includes": [],
+    "args": [],
+    "compiler": ""
+}
