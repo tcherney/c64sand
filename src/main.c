@@ -3,7 +3,7 @@
 char* screen = (char*)(1024);
 unsigned char* color = (unsigned char*)(55296);
 
-char* joystick = (char*)(56320);
+char* joystick = (char*)(56321);
 
 #define block_char 224
 #define empty_char 96
